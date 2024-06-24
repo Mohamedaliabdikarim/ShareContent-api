@@ -107,7 +107,6 @@ CORS_ALLOWED_ORIGIN_REGEXES = [r"^https://.*\.codeinstitute-ide\.net$", r"^https
 
 
 
-
 CORS_ALLOW_CREDENTIALS = True
 
 
